@@ -16,8 +16,8 @@
 
 	Análisis exploratorio de datos de 120 años de Juegos Olímpicos, abordando las siguientes preguntas:
 
-		1. ¿Cuántas medalles se han repartido en cada categoría? 
-		2. ¿Cual es el deporte más popular?
+		1. ¿Cuántas medallas se han repartido en cada categoría? 
+		2. ¿Cuál es el deporte más popular?
 		3. ¿Cuántos hombres y mujeres han participado en los Juegos Olímpicos?
 		4. Evolución del número de deportes a lo largo de las diferentes ediciones
 		5. Número de Juegos Olímpicos albergados por ciudad
