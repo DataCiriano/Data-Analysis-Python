@@ -1,5 +1,5 @@
 
-![Alt text](image.png)
+![image](https://github.com/cirianodev/Data-Analysis-Python/assets/147123439/c90160cd-641c-4f62-b79e-22ead6226543)
 
 	Exploratory data analysis of 120 years of Olympic Games, addressing the following questions:
 
