@@ -1,6 +1,6 @@
 # Data-Analysis-Python
 
-This is a public repository for different data analysis projects carried out in the Python programming language.
+This is a public repository for different data analysis projects carried out in the Python programming language 🐍.
 You can also access from my Kaggle profile: https://www.kaggle.com/miguelciriano
 
 Give me a ⭐️ if you like and use this repository! 👏
