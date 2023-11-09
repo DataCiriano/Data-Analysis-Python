@@ -26,6 +26,6 @@
 		6. Visualización de datos multivariados
 		7. Comunicación de descubrimientos
 	
-	Give me a ⭐️ if you like and use this repository! 👏
+	¡Dame una ⭐️ si te gusta y utilizas este repositorio! 👏
 
 
