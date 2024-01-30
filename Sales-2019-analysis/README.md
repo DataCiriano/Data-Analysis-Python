@@ -1,7 +1,7 @@
 
 ![image](https://github.com/cirianodev/Data-Analysis-Python/assets/147123439/cd286ac6-0e53-4be0-91c7-8b5ce32d2629)
 
-
+Data source: https://github.com/KeithGalli/Pandas-Data-Science-Tasks
 
 	Analysis of online sales data from a technology store in the United States during 2019:
 
