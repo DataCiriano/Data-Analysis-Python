@@ -1,5 +1,7 @@
 ![header_eda](https://github.com/DataCiriano/Data-Analysis-Python/assets/147123439/4d7aa3e1-9283-410b-b017-28ae98801cb8)
 
+Data source: https://www.kaggle.com/datasets/robikscube/rollercoaster-database
+
 Introduction to exploratory data analysis(EDA) with roller coaster data:
 
 		0. Imports and reading data
