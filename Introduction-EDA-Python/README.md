@@ -1,0 +1,25 @@
+
+
+Introduction to exploratory data analysis(EDA) with roller coaster data:
+
+		0. Imports and reading data
+		1. Data understanding
+		2. Data preparation
+		3. Feature understanding
+		4. Feature relationships
+        5. Ask a question about the data
+
+	Give me a ⭐️ if you like and use this repository! 👏
+
+--------------------------------------------------------------------------------------------
+
+	Introducción al análisis exploratorio de datos(EDA) con datos sobre montañas rusas:
+
+		1. Importar y leer los datos
+		2. Comprender los datos
+		3. Preparar los datos
+		4. Comprensión de características 
+		5. Relaciónes de características
+        6. Responder un pregunta sobre los datos
+	
+	¡Dame una ⭐️ si te gusta y utilizas este repositorio! 👏
