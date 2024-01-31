@@ -1,3 +1,4 @@
+![lego_logo](https://github.com/DataCiriano/Data-Analysis-Python/assets/147123439/8a3e8117-cbcf-4dc3-82c5-29aa61771737)
 
 Data source: https://github.com/KeithGalli/lego-analysis
 
