@@ -5,9 +5,11 @@ Data source: https://github.com/KeithGalli/lego-analysis
 
 Introduction:
 
-Lego is a household name across the world, supported by a diverse toy line, hit movies, and a series of successful video games. In this project, we are going to explore a key development in the history of Lego: the introduction of licensed sets such as Star Wars, Super Heroes, and Harry Potter.
+Lego is a household name across the world, supported by a diverse toy line, hit movies, and a series of successful video games. In this project, 
+we are going to explore a key development in the history of Lego: the introduction of licensed sets such as Star Wars, Super Heroes, and Harry Potter.
 
-It may not be widely known, but Lego has had its share of ups and downs since its inception in the early 20th century. This includes a particularly rough period in the late 90s. Lego was only able to survive due to a successful internal brand (Bionicle) and the introduction of its first licensed series: Star Wars.
+It may not be widely known, but Lego has had its share of ups and downs since its inception in the early 20th century. This includes a particularly rough 
+period in the late 90s. Lego was only able to survive due to a successful internal brand (Bionicle) and the introduction of its first licensed series: Star Wars.
 
 
 Solving some questions about Lego dataset with Pandas:
@@ -24,9 +26,11 @@ Solving some questions about Lego dataset with Pandas:
 	
 Introducción:
 
-Lego es una marca muy conocida en todo el mundo, respaldado por una diversa línea de juguetes, películas exitosas y una serie de videojuegos exitosos. En este proyecto, exploraremos un desarrollo clave en la historia de Lego: la introducción de conjuntos con licencia como Star Wars, Super Heroes y Harry Potter.
+Lego es una marca muy conocida en todo el mundo, respaldado por una diversa línea de juguetes, películas exitosas y una serie de videojuegos exitosos. En este proyecto, 
+exploraremos un desarrollo clave en la historia de Lego: la introducción de conjuntos con licencia como Star Wars, Super Heroes y Harry Potter.
 
-Puede que no sea muy conocido, pero Lego ha tenido sus altibajos desde sus inicios a principios del siglo XX. Esto incluye un período particularmente difícil a finales de los años 90. Lego sólo pudo sobrevivir gracias a una marca interna exitosa (Bionicle) y la introducción de su primera serie con licencia: Star Wars.
+Puede que no sea muy conocido, pero Lego ha tenido sus altibajos desde sus inicios a principios del siglo XX. Esto incluye un período particularmente difícil a finales de los años 90. 
+Lego sólo pudo sobrevivir gracias a una marca interna exitosa (Bionicle) y la introducción de su primera serie con licencia: Star Wars.
     
     
 Resolviendo algunas preguntas sobre el conjunto de datos de Lego con Pandas:
